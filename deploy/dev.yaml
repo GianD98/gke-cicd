@@ -6,5 +6,5 @@ metadata:
   labels: {}
 description: dev
 gke:
-  cluster: projects/myproject-0000-crezencyo/locations/us-central1-c/clusters/dev-cluster
+  cluster: projects/myproject-0000-crezencyo/locations/us-central1/clusters/dev-cluster
 
